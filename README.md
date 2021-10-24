@@ -1,4 +1,4 @@
-# nubank_clone
+# NuBank Clone
 
 A new Flutter project.
 
